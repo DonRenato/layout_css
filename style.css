@@ -1,0 +1,53 @@
+main{
+    background-color: red;
+    width: 960px;
+    margin: auto;
+    border-width: medium; 
+    border-style: solid; 
+    border-color: black;
+}
+
+header{
+    background-color: deepskyblue;
+    height: 100px;
+   
+}
+
+section{
+    width: 470px;
+    height: 220px;
+    margin: 5px 5px;
+    float: left;
+}
+
+#prim{
+    background-color: white;
+}
+
+#sec{
+    background-color: lightcoral;
+}
+
+ article{
+    background-color: red;
+    margin: 5px;
+    height: 100px;
+    width: 460px;
+    float: right;
+}
+img{
+    background-color: darkred;
+    height: 110px;
+    width: 227px;
+    margin: 5px;
+   
+}
+footer{
+    background-color: purple;
+    height: 100px;
+}
+div{
+    float: right;
+    background-color: black;
+}
+
