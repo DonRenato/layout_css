@@ -1,10 +1,12 @@
 main{
     background-color: red;
     width: 960px;
-    margin: auto;
-    border-width: medium; 
+    border-width: thin; 
     border-style: solid; 
     border-color: black;
+    float: left;
+   
+    
 }
 
 header{
@@ -33,21 +35,25 @@ section{
     margin: 5px;
     height: 100px;
     width: 460px;
-    float: right;
+    float: left;
 }
-img{
+figure{
     background-color: darkred;
     height: 110px;
-    width: 227px;
+    width: 230px;
     margin: 5px;
+    float: left;
    
 }
 footer{
     background-color: purple;
     height: 100px;
+    clear: left;
+    
 }
 div{
     float: right;
     background-color: black;
+    float: left;
 }
 
